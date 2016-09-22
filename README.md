@@ -27,6 +27,9 @@ The first stage in your programming assignment is the requirements analysis stag
 
 The game must make sense and have an actual story to it. It needs to be understandable. Consider that your professor will be reading the entire story.
 
+**An Example Game:**
+An example game can be seen at http://www.youtube.com/watch?v=x0Ksedq3Z5k. It does not show all of the requirements from above, but does demonstrate a number of them. If you are having trouble understanding what is being asked of you in this assignment, be sure to watch the video.
+
 ##IV.	DESIGN
 The second stage is to design your solution based on the requirements:
 
@@ -77,6 +80,3 @@ B. Hardcopy in class:
   2. A printout of your .py file
 
 ***Remember to double check on github.com that your files pushed. If they didn’t, you need to push them. I can only see what is on github.com, not what is only on your computer.
-	
-##X.	An Example Game:
-An example game will be shown in class.  You can look back at the Panopto recording if needed.  It meets all of the requirements stated above.
