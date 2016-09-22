@@ -41,7 +41,7 @@ The second stage is to design your solution based on the requirements:
 If you are having trouble coming up with a story, think about a book or movie you enjoyed. Be inspired by its story line or characters and come up with something original.
 
 **DESIGN SUBMISSION: 9/28/16**  
-Submit to GitHub: the algorithm for your adventure game in algorithm.txt.
+Submit to GitHub: the algorithm for your adventure game in designInitial.txt.
 
 *Remember to double check on github.com that your files pushed. If they didn’t, you need to push them. I can only see what is on github.com, not what is only on your computer.*
 
