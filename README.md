@@ -1,6 +1,7 @@
 # CS201 PROGRAMMING ASSIGNMENT #2
-50  POINTS   (10pts design, 40pts final)                                      			DESIGN DUE: 09/28/16
-											   FINAL DUE: 10/05/16
+50  POINTS (10pts design, 40pts final)                                  			
+DESIGN DUE: 09/28/16  
+FINAL DUE: 10/05/16
 
 ##I.	PROBLEM:
 You are creating a text adventure game!  In this game, the user gives input that affects the path of the story. You must create a game that meets the requirements in the specification below.
