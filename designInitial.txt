@@ -5,6 +5,7 @@
 3.)Output the user's name and ask the user to input a response to the prompt(" Hello!"name, "Would you like
 to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (yes or no )")
 
+                       ** (these will all be nested decisions)**
 
 4.)if answer1 == no:
     a.output ("I'm sorry to hear that.Come back and play next time.")
@@ -60,7 +61,7 @@ if path == 2:
            (You and the tribe find the cave with precious jewels each on top of separate rocks.
            there are three precious jewels one purple, one red and one blue.Which one do you choose?)
 
-15.) if answer2 = red:
+15.) if answer2 == red:
       a .output(You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
      under a net and the jewel disappears into the ground.)
 
