@@ -5,83 +5,80 @@
 3.)Output the user's name and ask the user to input a response to the prompt(" Hello!"name, "Would you like
 to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (yes or no )")
 
-(nested descisions)
+    **(nested descisions ARE ESSENTIAL FOR THE CODE:DON'T FORGET TO INDENT)**
 
-if answer1 == no:
-  a.output ("I'm sorry to hear that.Come back and play next time.")
+4.)if answer1 == no:
+    a.output ("I'm sorry to hear that.Come back and play next time.")
 
-otherwise
-   if answer1 == yes:
-       a.ask the user to input their choice of path to take through the forest with the prompt
+5.)otherwise
+if answer1 == yes:
+     a.ask the user to input their choice of path to take through the forest with the prompt
       ("There are three paths leading to the cave with the jewels which one will you take(enter only 1,2,or3)?")
 
-     if path == 1:
-       a.output ("name,You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry!")
+6.)if path == 1:
+     a.output ("name,You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry!")
 
-     otherwise
-     if path == 2:
+7.)otherwise
+if path == 2:
       a.output("name, This path is walkable however there are many wild animals and insects.A venomous spider jumps out
   and bites you and you are paralyzed.Better luck next time!")
 
-     otherwise
-     if path == 3:
-       a.output ("name,You have made an excellent choice you have chosen the right path!It is clear and safe!")
+8.)otherwise
+ if path == 3:
+      a.output ("name,You have made an excellent choice you have chosen the right path!It is clear and safe!")
 
-       b.ask the user to input how many amazonian tribes they want to bring with them to help find the jewel
+      b.ask the user to input how many amazonian tribes they want to bring with them to help find the jewel
     with the prompt ("name, How many amazonian tribes do you want to help you?")
 
-          if tribes >= 20:
-             a.output ("You cant have that much help!")
+9.)if tribes >= 20:
+      a.output ("You cant have that much help!")
 
-      otherwise
-          if tribes <=3:
-             a.output("You're going to need more help than that.You don't know the forest that well.
-          They are supposed guide you.")
+10.)otherwise
+ if tribes <=3:
+      a.output("You're going to need more help than that.You don't know the forest that well.
+        They are supposed guide you.")
 
-       otherwise
-         if tribes < 20 and tribes > 3:
+11.)otherwise
+ if tribes < 20 and tribes > 3:
+     a.ask the user how much they are going to eat on the excursion with the prompt
+   ("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree
+    How many bananas are you going to eat?(you can enter this answer in decimal form)
 
-            a.ask the user how much they are going to eat on the excursion with the prompt
-          ("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree
-        How many bananas are you going to eat?(you can enter this answer in decimal form)
+                <** number inputted must be a float value**">
 
-                 <** number inputted must be a float value**">
+12.if bananas eaten > 30:
+      a. output ("One of the bananas you have eaten was contaminated with a rare poison.
+         You become gravely ill and have to head back to the U.S to receive treatment.")
 
-          if bananas eaten > 30:
+ 13.) otherwise
+   if bananas eaten < 10:
+      a.output("You've barely eaten, you faint because you haven't eaten enough and have to go to the hospital.Oh no!")
 
-           a. output ("One of the bananas you have eaten was contaminated with a rare poison.
-           You become gravely ill and have to head back to the U.S to receive treatment.")
+14.)if bananas eaten < 30 and bananas eaten > 10:
+      a.output the number of bananas eaten
 
-          if bananas eaten < 10:
-           a.output
-           ("You've barely eaten, you faint because you haven't eaten enough and have to go to the hospital.Oh no!")
-
-          if bananas eaten < 30 and bananas eaten > 10:
-            a.output the number of bananas eaten
-
-            b. ask the user to input the color jewel that they want upon entering the cave with the prompt
+      b. ask the user to input the color jewel that they want upon entering the cave with the prompt
            (You and the tribe find the cave with precious jewels each on top of separate rocks.
            there are three precious jewels one purple, one red and one blue.Which one do you choose?)
 
+15.) if answer2 = red:
+      a .output(You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
+     under a net and the jewel disappears into the ground.)
 
-           if answer2 = red:
-              a .output(You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
-             under a net and the jewel disappears into the ground.)
+16.)otherwise
+  if answer2 == purple:
+      a.output ("You chose the purple jewel.You successfuly take the jewel.You become rich and famous for
+ finding this jewel.Congratulations!")
 
-           otherwise
-             if answer2 == purple:
-               a.output ("You chose the purple jewel.You successfuly take the jewel.You become rich and famous for finding this jewel.
-  Congratulations!")
+17.)otherwise
+if answer2 == blue:
+     a.output ("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up.However you successfully
+  fight them off but you end up losing the jewel in the process.")
 
-            otherwise
-           if answer2 == blue:
-             a.output ("The tribes ambush you and try to steal the jewel and you realize you have been set up.
-           However you successfully fight them off but you end up losing the jewel in the process.")
-
-4.)Output at the end of the program no matter what result  without indentation ("Thanks for trying out this game!")
+18.)Output at the end of the program no matter what result  without indentation ("Thanks for trying out this game!")
 
 **it is important to note that if the user enters anything that is not valid for some reason an else statement may be needed**
-
+ **(nested descisions ARE ESSENTIAL FOR THE CODE:DON'T FORGET TO INDENT)**
 
 
 
