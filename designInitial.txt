@@ -13,7 +13,7 @@ to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (y
 5.)otherwise
 if answer1 == yes:
      a.ask the user to input their choice of path to take through the forest with the prompt
-      ("There are three paths leading to the cave with the jewels which one will you take(enter only 1,2,or3)?")
+      ("There are three paths leading to the cave with the jewels which one will you take?(enter only 1,2,or3)")
 
 6.)if path == 1:
      a.output ("name,You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry!")
@@ -42,7 +42,7 @@ if path == 2:
  if tribes < 20 and tribes > 3:
      a.ask the user how much they are going to eat on the journey  with the prompt
    ("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree
-    How many bananas are you going to eat?(you can enter this answer in decimal form)
+    How many bananas did you eat?(you can enter this answer in decimal form)")
 
                 <** number inputted must be a float value**">
 
@@ -58,16 +58,16 @@ if path == 2:
       a.output the number of bananas eaten
 
       b. ask the user to input the color jewel that they want upon entering the cave with the prompt
-           (You and the tribe find the cave with precious jewels each on top of separate rocks.
-           there are three precious jewels one purple, one red and one blue.Which one do you choose?)
+           ("You and the tribe find the cave with precious jewels each on top of separate rocks.
+           there are three precious jewels one purple, one red and one blue.Which one do you choose?")
 
 15.) if answer2 == red:
-      a .output(You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
-     under a net and the jewel disappears into the ground.)
+      a.output("You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
+     under a net and the jewel disappears into the ground.")
 
 16.)otherwise
   if answer2 == purple:
-      a.output ("You chose the purple jewel.You successfuly take the jewel.You become rich and famous for
+      a.output ("You chose the purple jewel.You successfully take the jewel.You become rich and famous for
  finding this jewel.Congratulations!")
 
 17.)otherwise
