@@ -5,7 +5,6 @@
 3.)Output the user's name and ask the user to input a response to the prompt(" Hello!"name, "Would you like
 to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (yes or no )")
 
-    **(nested descisions ARE ESSENTIAL FOR THE CODE:DON'T FORGET TO INDENT)**
 
 4.)if answer1 == no:
     a.output ("I'm sorry to hear that.Come back and play next time.")
@@ -40,7 +39,7 @@ if path == 2:
 
 11.)otherwise
  if tribes < 20 and tribes > 3:
-     a.ask the user how much they are going to eat on the excursion with the prompt
+     a.ask the user how much they are going to eat on the journey  with the prompt
    ("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree
     How many bananas are you going to eat?(you can enter this answer in decimal form)
 
