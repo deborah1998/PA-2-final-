@@ -2,7 +2,7 @@
 
 2.)Ask the user to input their name with the prompt ("Please enter your name:")
 
-3.)Output the user's name and ask the user to input a response to the prompt(" Hello!,name Would you like
+3.)Output the user's name and ask the user to input a response to the prompt(" Hello!"name, "Would you like
 to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (yes or no )")
 
 if answer1 == no:
@@ -20,7 +20,7 @@ otherwise if path == 2:
   and bites you and you are paralyzed.Better luck next time!")
 
 otherwise if path == 3:
-  a.output ("name,You have made an excellent choice you have chosen the right path")
+  a.output ("name,You have made an excellent choice you have chosen the right path!It is clear and safe!")
 
   b.ask the user to input how many amazonian tribes they want to bring with them to help find the jewel
     with the prompt ("name, How many amazonian tribes do you want to help you?")
@@ -40,8 +40,8 @@ if tribes >= 20:
 
   if bananas eaten > 30:
 
-   a. output the number of bananas eaten
-   b. output ("One of the bananas you have eaten was contaminated with a rare poison.You become gravely ill and have to
+
+   a. output ("One of the bananas you have eaten was contaminated with a rare poison.You become gravely ill and have to
   head back to the U.S to receive treatment.")
 
   if bananas eaten < 10:
