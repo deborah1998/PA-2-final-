@@ -1,0 +1,27 @@
+Grade: 7.75/10
+
+[1/1] Input an int, float, and string at some point
+
+
+[1/1] At least 3 different boolean operators in story
+
+
+[1/1] User has specific input to choose from, must enter one of the given options
+
+
+[0/2] Have a path with at least 2 decisions on it
+- nothing is clearly nested in the algorithm
+
+[1/1] Have at least 1 choice that has at least 3 possible new directions 
+
+
+[1/1] Use something the user input in part of the output at least once
+
+
+[1/1] The game must make sense and have an actual story to it
+
+
+[1.75/2] Proper indentation and numbering, follows rules of an algorithm
+- You can't write "these will all be nested decisions." You need to actually show what is nested in your algorithm my indenting the same way we've done it in class.
+- step 14 should be an otherwise, since you are checking every other case in your if and otherwise if above
+

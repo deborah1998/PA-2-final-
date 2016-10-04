@@ -24,8 +24,7 @@ The first stage in your programming assignment is the requirements analysis stag
  but if I choose B I do not get to choose between X and Y, but instead do something else).
 3. Your adventure game must have at least 1 choice that has at least 3 possible directions (for example, when they enter a number the game takes a different path if their number is <5, between 5 and 10, or > 10).  
 4. Your adventure game must use at least 3 different boolean operators throughout the story  
-5. Your adventure game must have a decision where it gives the user at least two specific inputs to choose from,
-and does something different based on which value they input (e.g. "enter “green”, “red”, or “yellow”")
+5. Your adventure game must have a decision where it gives the user at least two specific inputs to choose from, and does something different based on which value they input (e.g. "enter “green”, “red”, or “yellow”")  
 6. Your adventure game must use something the user input in part of the output at least once (e.g., asking for their name
 and then outputting their name every time you address them).
 
