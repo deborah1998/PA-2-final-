@@ -48,7 +48,7 @@ elif answer == "yes":
                   "finding this jewel.Congratulations!")
 
                 elif color == "blue":
-                 print("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up."+
+                    print("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up."+
          "However you successfully fight them off but you end up losing the jewel in the process.")
 
 print("Bye!!!Thanks for trying out this game!")
