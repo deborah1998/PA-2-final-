@@ -1,11 +1,14 @@
 # Programmer:Deborah Onyuka
 # Course:  CS201.01T, Dr. Olsen
 # Date:[10/04/2016)
-# Programming Assignment: PA2
-# Problem Statement:
-# Data In:
-# Data Out:
-# Credits:
+# Programming Assignment:PA2
+# Problem Statement:Design a game that will have different paths based on the users input.
+# Data In:A series of inputs that will then make descisions and give specific outputs
+# thus creating different versions of the story
+# Data Out:Specific outputs from the decisions made based on the input
+# Credits:Class Notes 7-10 covering  if statements and nested if structures & the  Python Programming Textbook
+#(boolean operators and chained operators)
+
 print("Welcome to Deborah's Adventure Game!")
 
 name = str(input("Please enter your name:"))
@@ -23,7 +26,7 @@ elif answer == "yes":
         print("This path is walkable however there are many wild animals and insects.A venomous spider jumps out "+
 "and bites you and you are paralyzed.Better luck next time!")
     elif path == 3:
-        print(name,"You have made an excellent choice you have chosen the right path")
+        print(name,"You have made an excellent choice you have chosen the right path it is clear and safe.")
         tribes=int(input("How many amazonian tribes do you want to help you?"))
         if tribes >= 20:
             print("You can't have that much help!")
