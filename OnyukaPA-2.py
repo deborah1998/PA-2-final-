@@ -21,6 +21,7 @@ answer = str(input("Would you like to go on an adventure in the forest to find r
 #to run together
 # the double equals sign is a boolean operator(evaluates to true or false)
 #  a single equal sign just assigns a value to a variable
+#if, elif,else statements are making decisions onn what to run depending on what the user inputs into the program
 if answer =="no":
     print("I'm sorry to hear that.Come back and play next time.")
 elif answer == "yes":
@@ -37,6 +38,7 @@ elif answer == "yes":
             print("You can't have that much help!")
         elif tribes <=3:
             print("You're going to need more help than that.You don't know the forest that well.They are supposed to guide you.")
+        #looking for a specific set of values (a set range of numbers from 3 to 20)
         elif tribes < 20 and tribes > 3:
             print("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree")
             bananas_eaten = float(input("How many bananas did you eat?(you can enter this answer in decimal form)"))
@@ -52,13 +54,13 @@ elif answer == "yes":
                     print("You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped"+
                  " under a net and the jewel disappears into the ground.")
                 elif color == "purple":
-                    print("You chose the purple jewel.You successfully take the jewel.You become rich and famous for" +
+                    print("You chose the purple jewel.You successfully take the jewel.You become rich and famous for " +
                   "finding this jewel.Congratulations!")
 
                 elif color == "blue":
                     print("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up."+
          "However you successfully fight them off but you end up losing the jewel in the process.")
-
+#print this statement after the end of each control path
 print("Bye!!!Thanks for trying out this game!")
 
 
