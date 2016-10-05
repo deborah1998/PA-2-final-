@@ -10,7 +10,7 @@ i'll need and want in my code and  what my decisions will possibly  be so that I
 to start the program design process on the computer itself.Additionally it would help me be more organized before I attempt
 to write my algorithm,or draw my flow chart.In this lab I had more practice with typecasting which I liked and I
 also had programming practice with different boolean operators and creating boolean expressions as well as
-comparing variables .To add on to that I realized that just like in pa 1 that that programming as an individual requires
+comparing variables .To add on to that I realized that just like in pa 1  that programming as an individual requires
 close attention to detail as it helps prevent less syntax errors or simple mistakes such as spelling.In pa-2 it was extremely crucial to pay attention and make sure that
 the format was correct and that everything was being type casted properly and that expressions were being written properly
 because in a multi step program such as this one one small mistake can effect the entire program.
