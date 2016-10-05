@@ -15,7 +15,12 @@ name = str(input("Please enter your name:"))
 
 print("Hello", name, "we are going to go on an adventure in the Amazon Rain Forest!")
 
+#typecasting input to string
 answer = str(input("Would you like to go on an adventure in the forest to find rare precious jewels? (yes or no )?"))
+#conditional statements and nested condtional statements makesure everything lines up if those bits of code are supposed
+#to run together
+# the double equals sign is a boolean operator(evaluates to true or false)
+#  a single equal sign just assigns a value to a variable
 if answer =="no":
     print("I'm sorry to hear that.Come back and play next time.")
 elif answer == "yes":
@@ -24,7 +29,7 @@ elif answer == "yes":
         print(name, "You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry")
     elif path == 2:
         print("This path is walkable however there are many wild animals and insects.A venomous spider jumps out "+
-"and bites you and you are paralyzed.Better luck next time!")
+     "and bites you and you are paralyzed.Better luck next time!")
     elif path == 3:
         print(name,"You have made an excellent choice you have chosen the right path it is clear and safe.")
         tribes=int(input("How many amazonian tribes do you want to help you?"))
