@@ -5,7 +5,7 @@
 3.)Output the user's name and ask the user to input a response to the prompt(" Hello!"name, "Would you like
 to go on an adventure in the Amazon Rain Forest to find rare precious jewels? (yes or no )")
 
-                       ** (these will all be nested decisions)**
+
 
 4.)if answer1 == no:
     a.output ("I'm sorry to hear that.Come back and play next time.")
@@ -16,7 +16,7 @@ if answer1 == yes:
       ("There are three paths leading to the cave with the jewels which one will you take?(enter only 1,2,or3)")
 
 6.)if path == 1:
-     a.output ("name,You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry!")
+ a.output ("name,You have chosen the first path,unfortunately this path has quicksand and you get trapped.Sorry!")
 
 7.)otherwise
 if path == 2:

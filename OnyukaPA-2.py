@@ -31,7 +31,7 @@ elif answer == "yes":
         if tribes >= 20:
             print("You can't have that much help!")
         elif tribes <=3:
-            print("You're going to need more help than that.You don't know the forest that well.They are supposed guide you.")
+            print("You're going to need more help than that.You don't know the forest that well.They are supposed to guide you.")
         elif tribes < 20 and tribes > 3:
             print("You and the tribes stop on your way to the cave to eat some bananas that are hanging from the tree")
             bananas_eaten = float(input("How many bananas did you eat?(you can enter this answer in decimal form)"))
