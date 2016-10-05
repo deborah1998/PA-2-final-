@@ -57,7 +57,8 @@ After your design is complete and correct, it’s time to start programming and 
   1. Follow good usability/HCI principles in your input and output (make it clear the type of input you are asking for)
   2. Remember to state the purpose of the program
 3. Testing: Make sure it works correctly; give it sample input, and check that the output is correct.
-  1. Create a flowchart, label the control paths, and list a test case for each control path.  Test that you can get through each path correctly. You do not need to put the full output in the flowchart, just make it clear what part of the output is there.
+  1. Create a flowchart, label the control paths, and list a test case for each control path.  Test that you can get through each path correctly.
+  You do not need to put the full output in the flowchart, just make it clear what part of the output is there.
   2. Test your program using the input. If it doesn’t give the expected output, find the error and fix it.
 
 ##VI.	EXTRA CREDIT (only if everything else works)
@@ -69,7 +70,8 @@ Briefly note in your introductory comments what was added for the extra credit.
 Follow the programming assignment requirements document for comments, formatting, etc.
 
 ##VIII.	REFLECTION
-Write a short reflection about the programming assignment in reflection.txt: what did you learn, what would you do differently next time, what was difficult?  This should be no more than a page.
+Write a short reflection about the programming assignment in reflection.txt:
+ what did you learn, what would you do differently next time, what was difficult?  This should be no more than a page.
 
 ##IX.	FINAL SUBMISSION   
 A. To GitHub:  
