@@ -1,5 +1,5 @@
 # Programmer:Deborah Onyuka
-# Course:  CS201.01T, Dr. Olsen
+# Course:CS201.01T, Dr. Olsen
 # Date:[10/04/2016)
 # Programming Assignment:PA2
 # Problem Statement:Design a game that will have different paths based on the users input.

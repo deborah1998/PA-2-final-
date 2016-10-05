@@ -1,4 +1,13 @@
 
  what did you learn, what would you do differently next time, what was difficult?  This should be no more than a page.
 
-For programming assignment number two.I learned
+For programming assignment number 2.I learned how to use input & output to make decisions.I also  learned how to format
+conditional statements not only in my code but in my algorithm as well .While working on the program it was extreemley
+difficult for me how to nest certain if statements into others but I rectified this problem by referencing my notes and
+asking for help.I also thought it was challenging to draw the flow chart  for the different paths of the program since in my
+particular program there were various paths.I think that in the future i'll physically wite on paper what aspects i'll need and want
+in my code and  what my decisions will possibly  be so that i have an idea of how I wll attempt to start the program
+design process on the computer itself.Additionally it would help me be more organized before I attempt
+to write my algorithm,or draw my flow chart.In this lab i had more practice with typecasting which I liked and I
+also had programming practice with different boolean operators and creating boolean expressions.
+
