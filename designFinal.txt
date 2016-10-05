@@ -52,7 +52,7 @@ if answer1 == yes:
 
  13.)otherwise
       if bananas eaten < 10:
-     a.output("You've barely eaten, you faint because you haven't eaten enough and have to go to the hospital.Oh no!")
+       a.output("You've barely eaten, you faint because you haven't eaten enough and have to go to the hospital.Oh no!")
 
 14.)otherwise bananas eaten < 30 and bananas eaten > 10:
     a.output the number of bananas eaten
@@ -61,18 +61,16 @@ if answer1 == yes:
            ("You and the tribe find the cave with precious jewels each on top of separate rocks.
            there are three precious jewels one purple, one red and one blue.Which one do you choose?")
 
-15.) if answer2 == red:
+15.)if answer2 == red:
        a.output("You chose the red jewel!Unfortunately that jewel was booby trapped and you are now trapped
      under a net and the jewel disappears into the ground.")
 
-16.)otherwise
-     if answer2 == purple:
-        a.output ("You chose the purple jewel.You successfully take the jewel.You become rich and famous for
+16.)otherwise if answer2 == purple:
+       a.output ("You chose the purple jewel.You successfully take the jewel.You become rich and famous for
  finding this jewel.Congratulations!")
 
-17.)otherwise
-    if answer2 == blue:
-        a.output ("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up.However you successfully
+17.)otherwise if answer2 == blue:
+       a.output ("You chose the blue jewel!The tribes ambush you and try to steal the jewel and you realize you have been set up.However you successfully
   fight them off but you end up losing the jewel in the process.")
 
 18.)Output at the end of the program no matter what result  without indentation ("Thanks for trying out this game!")
