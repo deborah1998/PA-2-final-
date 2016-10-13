@@ -1,0 +1,44 @@
+CS201 Programming Assignment 2 checklist & grading sheet
+
+PA Grade = 38.5 / 40
+
+Comments:
+2/2 Intro comments complete and clear
+1/1 Appropriate in-line commentary given
+
+Format:
+1/1 Proper use of upper/lowercase
+1/1 Appropriate use of whitespace
+
+Supporting Documents:
+2/2 Algorithm 
+2/2 Test cases
+2/2 Reflection
+2.5/3 Flowchart & control paths - minor issues
+
+Correctness/Completeness Issues:
+1.5/2 User input & typecasting done correctly - you don't need to typecast the result of input to a string -- it IS a string, which is why you need to typecast it to a number when you need a number
+2/2 Code follows final algorithm
+2/2 Question that inputs 2 or more specified values
+2/2 Int, float, and string all used at some point
+2/2 At least 3 different boolean operators
+3/3 Path with 2 decisions
+3/3 Question with 3 possible directions
+1/1 Outputs something a user input
+0.5/1 No other logic errors- your "elif tribes < 20 and tribes > 3" should just be an else, as it is referring to every other case that could occur. 
+
+Design Issues:
+1/1 Appropriate variable names
+2/2 Clear prompts
+1/1 Storyline makes sense
+2/2 Clear and well formatted output
+2/2 No spaghetti code
+
+
+Extra Credit:
+
+
+
+Additional Comments:
+
+
